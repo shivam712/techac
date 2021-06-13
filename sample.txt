@@ -1,5 +1,6 @@
 This is sample text file
 //edited line
+//conflict mocking
 Git is software for tracking changes in any set of files,
 usually used for coordinating work among programmers collaboratively 
 developing source code during software development. Its goals include speed,
